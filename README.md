@@ -1,6 +1,6 @@
 # xmlrpcbruteforcescript
-zafiyetli xmlrpc'ler için modifiye edilmiş script.
+Zafiyetli xmlrpc'ler için modifiye edilmiş script.
 
-for see password try process, uncomment the line 92.
+For see password try process, uncomment the line 92.
 
 kaantekiner.
