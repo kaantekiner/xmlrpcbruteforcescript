@@ -118,7 +118,6 @@ def main(argv):
   verify(url)
 
   print("")
-
   print(bcolors.WARNING + "--=[Target: " + bcolors.ENDC + url + bcolors.WARNING + "]=--" + bcolors.ENDC)
   print("")
 
