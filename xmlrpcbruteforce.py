@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 
-# Author:   Kavish Gour
+# Original Author:   Kavish Gour
+# Modify: Kaan Tekiner
+
 # Date:     2019-10-10
 # Email: kavishgr@protonmail.com
 # Twitter:  https://twitter.com/kavishgour
